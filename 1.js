@@ -1,3 +1,1 @@
-$(document).ready(function() {
-  $('#navbar_76').hide();
-});
+alert(2);
